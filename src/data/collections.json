@@ -1,0 +1,40 @@
+{
+ "items": [
+  {
+   "title": "Living Room",
+   "description": "Sofas and lounge seating composed for generous, light-filled rooms.",
+   "image": "/images/n3.webp",
+   "category": "living"
+  },
+  {
+   "title": "Bedroom",
+   "description": "Upholstered beds and matching pieces for restful rooms.",
+   "image": "/images/n8.webp",
+   "category": "bed"
+  },
+  {
+   "title": "Dining Room",
+   "description": "Tables and seating made for long evenings.",
+   "image": "/images/n16.webp",
+   "category": "dining"
+  },
+  {
+   "title": "Lounge & Accent",
+   "description": "Occasional seating and statement pieces.",
+   "image": "/images/n4.webp",
+   "category": "lounge"
+  },
+  {
+   "title": "Sideboards & Consoles",
+   "description": "Storage and display with considered detail.",
+   "image": "/images/n15.webp",
+   "category": "storage"
+  },
+  {
+   "title": "Coffee & Media Tables",
+   "description": "Low tables and media units for the heart of the room.",
+   "image": "/images/n2.webp",
+   "category": "tables"
+  }
+ ]
+}

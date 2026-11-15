@@ -1,0 +1,53 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: public/images
+public_folder: /images
+site_url: https://example.netlify.app
+display_url: https://example.netlify.app
+collections:
+  - name: site
+    label: Site content
+    files:
+      - name: pieces
+        label: Furniture pieces
+        file: src/data/pieces.json
+        fields:
+          - label: Pieces
+            name: pieces
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Name, name: title, widget: string}
+              - {label: "URL name (letters and hyphens, no spaces)", name: id, widget: string, pattern: ["^[a-z0-9-]+$", "Lowercase letters, numbers and hyphens only"]}
+              - {label: Photo, name: image, widget: image}
+              - {label: Category, name: category, widget: select, options: [{label: Living Room, value: living}, {label: Bedroom, value: bed}, {label: Dining, value: dining}, {label: Lounge & Accent, value: lounge}, {label: Storage & Consoles, value: storage}, {label: Tables, value: tables}]}
+              - {label: Show in "Showroom floor" group only, name: showroomFloor, widget: boolean, default: false}
+              - {label: Visible on website, name: visible, widget: boolean, default: true}
+      - name: collections
+        label: Featured collections
+        file: src/data/collections.json
+        fields:
+          - label: Collections
+            name: items
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Description, name: description, widget: text}
+              - {label: Photo, name: image, widget: image}
+              - {label: Category shown, name: category, widget: select, options: [living, bed, dining, lounge, storage, tables]}
+      - name: settings
+        label: Contact and opening hours
+        file: src/data/settings.json
+        fields:
+          - {label: WhatsApp number (digits only, with country code), name: whatsapp, widget: string}
+          - {label: WhatsApp number (display), name: whatsappDisplay, widget: string}
+          - {label: Email, name: email, widget: string}
+          - {label: Opening hours text, name: hours, widget: string}
+          - {label: Opening hour (24h), name: openHour, widget: number}
+          - {label: Closing hour (24h), name: closeHour, widget: number}
+          - {label: Address, name: address, widget: string}
+          - {label: Google Maps link, name: mapsUrl, widget: string}
+          - {label: Directions link, name: directionsUrl, widget: string}
+          - {label: Tagline, name: tagline, widget: string}

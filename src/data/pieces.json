@@ -1,0 +1,268 @@
+{
+ "pieces": [
+  {
+   "id": "oval-dining-table-with-boucl-chairs",
+   "title": "Oval dining table with boucl\u00e9 chairs",
+   "image": "/images/n12.webp",
+   "category": "dining",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "red-sofa-with-timber-legs-and-brass-tone",
+   "title": "Red sofa with timber legs and brass-tone coffee table",
+   "image": "/images/n20.webp",
+   "category": "tables",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "media-unit-and-square-coffee-table-in-da",
+   "title": "Media unit and square coffee table in dark timber",
+   "image": "/images/n3.webp",
+   "category": "storage",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "dining-table-with-channel-tufted-chairs",
+   "title": "Dining table with channel-tufted chairs",
+   "image": "/images/1.webp",
+   "category": "dining",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "oval-dining-table-with-fluted-base",
+   "title": "Oval dining table with fluted base",
+   "image": "/images/n16.webp",
+   "category": "dining",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "round-coffee-table-with-slatted-base-and",
+   "title": "Round coffee table with slatted base and timber top",
+   "image": "/images/n2.webp",
+   "category": "tables",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "sideboard-with-mirrored-doors-and-four-d",
+   "title": "Sideboard with mirrored doors and four drawers",
+   "image": "/images/2.webp",
+   "category": "storage",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "timber-dining-table-with-oval-cut-legs",
+   "title": "Timber dining table with oval-cut legs",
+   "image": "/images/n10.webp",
+   "category": "dining",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "bedroom-with-upholstered-bed-and-storage",
+   "title": "Bedroom with upholstered bed and storage bench",
+   "image": "/images/n8.webp",
+   "category": "bed",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "cream-coffee-table-with-timber-base",
+   "title": "Cream coffee table with timber base",
+   "image": "/images/5.webp",
+   "category": "tables",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "sideboard-with-glazed-doors-and-wine-rac",
+   "title": "Sideboard with glazed doors and wine rack",
+   "image": "/images/n15.webp",
+   "category": "storage",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "pair-of-patterned-armchairs-with-timber-",
+   "title": "Pair of patterned armchairs with timber frames",
+   "image": "/images/n4.webp",
+   "category": "lounge",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "coffee-table-with-two-deep-drawers",
+   "title": "Coffee table with two deep drawers",
+   "image": "/images/6.webp",
+   "category": "tables",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "oval-timber-coffee-table-with-cross-base",
+   "title": "Oval timber coffee table with cross base",
+   "image": "/images/n7.webp",
+   "category": "tables",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "upholstered-bed-with-timber-posts",
+   "title": "Upholstered bed with timber posts",
+   "image": "/images/n11.webp",
+   "category": "bed",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "button-tufted-wing-armchairs",
+   "title": "Button-tufted wing armchairs",
+   "image": "/images/9.webp",
+   "category": "lounge",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "timber-coffee-table-with-open-shelf-and-",
+   "title": "Timber coffee table with open shelf and drawer",
+   "image": "/images/n6.webp",
+   "category": "tables",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "dining-table-with-sculptural-upholstered",
+   "title": "Dining table with sculptural upholstered chairs",
+   "image": "/images/n9.webp",
+   "category": "dining",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "sideboard-with-concentric-relief-doors",
+   "title": "Sideboard with concentric relief doors",
+   "image": "/images/12.webp",
+   "category": "storage",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "bed-with-panelled-headboard-and-matching",
+   "title": "Bed with panelled headboard and matching bedsides",
+   "image": "/images/n5.webp",
+   "category": "bed",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "fluted-sideboard-with-ring-handle",
+   "title": "Fluted sideboard with ring handle",
+   "image": "/images/13.webp",
+   "category": "storage",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "curved-sofa-with-brass-tone-trim",
+   "title": "Curved sofa with brass-tone trim",
+   "image": "/images/14.webp",
+   "category": "living",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "round-lounge-daybed",
+   "title": "Round lounge daybed",
+   "image": "/images/16.webp",
+   "category": "lounge",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "upholstered-bed-with-bedside-tables",
+   "title": "Upholstered bed with bedside tables",
+   "image": "/images/17.webp",
+   "category": "bed",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "dining-set-in-velvet-upholstery",
+   "title": "Dining set in velvet upholstery",
+   "image": "/images/18.webp",
+   "category": "dining",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "console-with-arched-mirror",
+   "title": "Console with arched mirror",
+   "image": "/images/19.webp",
+   "category": "storage",
+   "showroomFloor": false,
+   "visible": true
+  },
+  {
+   "id": "cream-sofa-with-sculpted-timber-arm-pane",
+   "title": "Cream sofa with sculpted timber arm panels",
+   "image": "/images/n18.webp",
+   "category": "living",
+   "showroomFloor": true,
+   "visible": true
+  },
+  {
+   "id": "striped-lounge-chairs",
+   "title": "Striped lounge chairs",
+   "image": "/images/8.webp",
+   "category": "lounge",
+   "showroomFloor": true,
+   "visible": true
+  },
+  {
+   "id": "grey-sofa-with-timber-base",
+   "title": "Grey sofa with timber base",
+   "image": "/images/n17.webp",
+   "category": "living",
+   "showroomFloor": true,
+   "visible": true
+  },
+  {
+   "id": "blue-sofa-with-timber-arm-details",
+   "title": "Blue sofa with timber arm details",
+   "image": "/images/n13.webp",
+   "category": "living",
+   "showroomFloor": true,
+   "visible": true
+  },
+  {
+   "id": "sofa-in-textured-rust-upholstery",
+   "title": "Sofa in textured rust upholstery",
+   "image": "/images/n19.webp",
+   "category": "living",
+   "showroomFloor": true,
+   "visible": true
+  },
+  {
+   "id": "sofa-with-black-framed-arms",
+   "title": "Sofa with black-framed arms",
+   "image": "/images/n14.webp",
+   "category": "living",
+   "showroomFloor": true,
+   "visible": true
+  },
+  {
+   "id": "dining-table-with-cushioned-arm-chairs",
+   "title": "Dining table with cushioned arm chairs",
+   "image": "/images/n1.webp",
+   "category": "dining",
+   "showroomFloor": true,
+   "visible": true
+  }
+ ]
+}

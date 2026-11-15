@@ -1,0 +1,1 @@
+export default {content:["./index.html","./src/**/*.{js,jsx}"],theme:{extend:{colors:{bronze:"#B49A70",espresso:"#211B17",walnut:"#513A2C",ivory:"#F4F0E8",stone:"#D8D0C4"},fontFamily:{display:["Montserrat","system-ui","sans-serif"],body:["Red Hat Display","system-ui","sans-serif"]}}},plugins:[]};
