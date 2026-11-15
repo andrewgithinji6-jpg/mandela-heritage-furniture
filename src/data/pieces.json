@@ -6,7 +6,10 @@
    "image": "/images/n12.webp",
    "category": "dining",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 230000,
+   "isNew": true,
+   "featured": true
   },
   {
    "id": "red-sofa-with-timber-legs-and-brass-tone",
@@ -14,7 +17,10 @@
    "image": "/images/n20.webp",
    "category": "tables",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 175000,
+   "isNew": true,
+   "featured": true
   },
   {
    "id": "media-unit-and-square-coffee-table-in-da",
@@ -22,7 +28,10 @@
    "image": "/images/n3.webp",
    "category": "storage",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 138000,
+   "isNew": true,
+   "featured": true
   },
   {
    "id": "dining-table-with-channel-tufted-chairs",
@@ -30,7 +39,10 @@
    "image": "/images/1.webp",
    "category": "dining",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 185000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "oval-dining-table-with-fluted-base",
@@ -38,7 +50,10 @@
    "image": "/images/n16.webp",
    "category": "dining",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 245000,
+   "isNew": true,
+   "featured": true
   },
   {
    "id": "round-coffee-table-with-slatted-base-and",
@@ -46,7 +61,10 @@
    "image": "/images/n2.webp",
    "category": "tables",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 48000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "sideboard-with-mirrored-doors-and-four-d",
@@ -54,7 +72,10 @@
    "image": "/images/2.webp",
    "category": "storage",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 98000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "timber-dining-table-with-oval-cut-legs",
@@ -62,7 +83,10 @@
    "image": "/images/n10.webp",
    "category": "dining",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 160000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "bedroom-with-upholstered-bed-and-storage",
@@ -70,7 +94,10 @@
    "image": "/images/n8.webp",
    "category": "bed",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 240000,
+   "isNew": true,
+   "featured": true
   },
   {
    "id": "cream-coffee-table-with-timber-base",
@@ -78,7 +105,10 @@
    "image": "/images/5.webp",
    "category": "tables",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 42000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "sideboard-with-glazed-doors-and-wine-rac",
@@ -86,7 +116,10 @@
    "image": "/images/n15.webp",
    "category": "storage",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 108000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "pair-of-patterned-armchairs-with-timber-",
@@ -94,7 +127,10 @@
    "image": "/images/n4.webp",
    "category": "lounge",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 85000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "coffee-table-with-two-deep-drawers",
@@ -102,7 +138,10 @@
    "image": "/images/6.webp",
    "category": "tables",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 45000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "oval-timber-coffee-table-with-cross-base",
@@ -110,7 +149,10 @@
    "image": "/images/n7.webp",
    "category": "tables",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 56000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "upholstered-bed-with-timber-posts",
@@ -118,7 +160,10 @@
    "image": "/images/n11.webp",
    "category": "bed",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 145000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "button-tufted-wing-armchairs",
@@ -126,7 +171,10 @@
    "image": "/images/9.webp",
    "category": "lounge",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 78000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "timber-coffee-table-with-open-shelf-and-",
@@ -134,7 +182,10 @@
    "image": "/images/n6.webp",
    "category": "tables",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 52000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "dining-table-with-sculptural-upholstered",
@@ -142,7 +193,10 @@
    "image": "/images/n9.webp",
    "category": "dining",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 225000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "sideboard-with-concentric-relief-doors",
@@ -150,7 +204,10 @@
    "image": "/images/12.webp",
    "category": "storage",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 120000,
+   "isNew": false,
+   "featured": true
   },
   {
    "id": "bed-with-panelled-headboard-and-matching",
@@ -158,7 +215,10 @@
    "image": "/images/n5.webp",
    "category": "bed",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 165000,
+   "isNew": true,
+   "featured": false
   },
   {
    "id": "fluted-sideboard-with-ring-handle",
@@ -166,7 +226,10 @@
    "image": "/images/13.webp",
    "category": "storage",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 135000,
+   "isNew": false,
+   "featured": true
   },
   {
    "id": "curved-sofa-with-brass-tone-trim",
@@ -174,7 +237,10 @@
    "image": "/images/14.webp",
    "category": "living",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 165000,
+   "isNew": false,
+   "featured": true
   },
   {
    "id": "round-lounge-daybed",
@@ -182,7 +248,10 @@
    "image": "/images/16.webp",
    "category": "lounge",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 195000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "upholstered-bed-with-bedside-tables",
@@ -190,7 +259,10 @@
    "image": "/images/17.webp",
    "category": "bed",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 150000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "dining-set-in-velvet-upholstery",
@@ -198,7 +270,10 @@
    "image": "/images/18.webp",
    "category": "dining",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 210000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "console-with-arched-mirror",
@@ -206,7 +281,10 @@
    "image": "/images/19.webp",
    "category": "storage",
    "showroomFloor": false,
-   "visible": true
+   "visible": true,
+   "price": 58000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "cream-sofa-with-sculpted-timber-arm-pane",
@@ -214,7 +292,10 @@
    "image": "/images/n18.webp",
    "category": "living",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 128000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "striped-lounge-chairs",
@@ -222,7 +303,10 @@
    "image": "/images/8.webp",
    "category": "lounge",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 68000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "grey-sofa-with-timber-base",
@@ -230,7 +314,10 @@
    "image": "/images/n17.webp",
    "category": "living",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 118000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "blue-sofa-with-timber-arm-details",
@@ -238,7 +325,10 @@
    "image": "/images/n13.webp",
    "category": "living",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 135000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "sofa-in-textured-rust-upholstery",
@@ -246,7 +336,10 @@
    "image": "/images/n19.webp",
    "category": "living",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 145000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "sofa-with-black-framed-arms",
@@ -254,7 +347,10 @@
    "image": "/images/n14.webp",
    "category": "living",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 125000,
+   "isNew": false,
+   "featured": false
   },
   {
    "id": "dining-table-with-cushioned-arm-chairs",
@@ -262,7 +358,10 @@
    "image": "/images/n1.webp",
    "category": "dining",
    "showroomFloor": true,
-   "visible": true
+   "visible": true,
+   "price": 175000,
+   "isNew": false,
+   "featured": false
   }
  ]
 }

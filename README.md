@@ -24,3 +24,6 @@ The client can add/edit/hide pieces and photos, change featured collections, and
 
 ## Still to confirm with the showroom
 Dimensions, materials, finishes, delivery, care, payment, company history. Placeholders say "shared on enquiry".
+
+## Prices
+Prices in `src/data/pieces.json` are indicative placeholders so the design can be pitched. Replace them with the showroom's real prices in the admin (Furniture pieces > Price) before launch. The note shown under prices is editable in Contact and opening hours > Price note.

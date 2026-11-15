@@ -24,6 +24,9 @@ collections:
               - {label: Name, name: title, widget: string}
               - {label: "URL name (letters and hyphens, no spaces)", name: id, widget: string, pattern: ["^[a-z0-9-]+$", "Lowercase letters, numbers and hyphens only"]}
               - {label: Photo, name: image, widget: image}
+              - {label: Price (KES, numbers only), name: price, widget: number, value_type: int, min: 0}
+              - {label: New arrival, name: isNew, widget: boolean, default: false}
+              - {label: Featured on home page, name: featured, widget: boolean, default: false}
               - {label: Category, name: category, widget: select, options: [{label: Living Room, value: living}, {label: Bedroom, value: bed}, {label: Dining, value: dining}, {label: Lounge & Accent, value: lounge}, {label: Storage & Consoles, value: storage}, {label: Tables, value: tables}]}
               - {label: Show in "Showroom floor" group only, name: showroomFloor, widget: boolean, default: false}
               - {label: Visible on website, name: visible, widget: boolean, default: true}
@@ -54,3 +57,4 @@ collections:
           - {label: Google Maps link, name: mapsUrl, widget: string}
           - {label: Directions link, name: directionsUrl, widget: string}
           - {label: Tagline, name: tagline, widget: string}
+          - {label: Price note shown on the site, name: priceNote, widget: string}
