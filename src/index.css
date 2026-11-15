@@ -1,6 +1,6 @@
 @tailwind base;@tailwind components;@tailwind utilities;
 :root{--bg:#FBFAF8;--fg:#211B17;--mut:#5f5851;--line:#e6e1da;--card:#F1EEE9;--tan:#D9D3CE;--dark:#211B17;--ink:#211B17;--ink-t:#fff;--foot:#3a2d26;--hh:118px;--pad:2.2vw;--serif:"Playfair Display",Georgia,serif;--sans:"Inter",system-ui,sans-serif}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--fg);font:400 16px/1.65 var(--sans)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:400 16px/1.65 var(--sans)}
 h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:-.015em;line-height:1.12;margin:0}h1{font-size:clamp(2.4rem,5vw,4.2rem)}h2{font-size:clamp(1.8rem,3vw,2.6rem)}
 p{margin:0 0 1em;max-width:62ch;color:var(--mut)}a{color:inherit;text-decoration:none}:focus-visible{outline:2px solid #B49A70;outline-offset:3px}
 .up{text-transform:uppercase;letter-spacing:.14em;font-size:.8rem;font-weight:500}
@@ -41,3 +41,5 @@ form.f{display:grid;gap:1.3rem;max-width:640px}form.f label{font-size:.8rem;colo
 @media(max-width:900px){.two,.split,.split.dk{grid-template-columns:1fr}.split .im{min-height:320px}.grid4,.grid3{grid-template-columns:1fr 1fr}.ftr .g{grid-template-columns:1fr 1fr}.room{min-height:420px}.cats{grid-auto-columns:42%}}
 @media(max-width:520px){.grid4,.grid3{grid-template-columns:1fr 1fr;gap:1.6rem .9rem}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.fade{animation:fin .32s ease-out both}@keyframes fin{from{opacity:0}to{opacity:1}}

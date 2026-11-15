@@ -10,7 +10,7 @@ export const ROOMS={living:{t:"Living Room",img:"/images/n3.webp",d:"Sofas, armc
 export const wa=t=>`https://wa.me/${S.whatsapp}?text=${encodeURIComponent(t)}`;
 export function openStatus(){const d=new Date(new Date().toLocaleString("en-US",{timeZone:"Africa/Nairobi"})),h=d.getHours()+d.getMinutes()/60,o=h>=S.openHour&&h<S.closeHour;return o?`Open now, until ${S.closeHour>12?S.closeHour-12+"pm":S.closeHour+"am"}`:`Closed now. ${S.hours}`.replace("Monday to Sunday","Open daily")}
 export const Status=()=>{const[s,set]=useState(openStatus());useEffect(()=>{set(openStatus())},[]);return <p className={"open"+(s.startsWith("Closed")?" c":"")}><span className="dot"/>{s}</p>};
-export function usePage(title,desc){useEffect(()=>{document.title=title+" | Mandela Heritage Furnitures";const m=document.querySelector('meta[name="description"]');if(m&&desc)m.content=desc;window.scrollTo(0,0)},[title]);}
+export function usePage(title,desc){useEffect(()=>{document.title=title+" | Mandela Heritage Furnitures";const m=document.querySelector('meta[name="description"]');if(m&&desc)m.content=desc;window.scrollTo({top:0,left:0,behavior:"instant"})},[title]);}
 const Ctx=createContext();export const useEq=()=>useContext(Ctx);
 export function EqProvider({children}){const[ids,setIds]=useState(()=>{try{return JSON.parse(localStorage.getItem("eql")||"[]")}catch{return[]}});
 useEffect(()=>{try{localStorage.setItem("eql",JSON.stringify(ids))}catch{}},[ids]);
