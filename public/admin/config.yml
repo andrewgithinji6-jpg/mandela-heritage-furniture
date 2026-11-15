@@ -1,10 +1,13 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: andrewgithinji6-jpg/mandela-heritage-furniture
   branch: main
+  base_url: https://mandela-heritage-furniture.pages.dev
+  auth_endpoint: /api/auth
 media_folder: public/images
 public_folder: /images
-site_url: https://example.netlify.app
-display_url: https://example.netlify.app
+site_url: https://mandela-heritage-furniture.pages.dev
+display_url: https://mandela-heritage-furniture.pages.dev
 collections:
   - name: site
     label: Site content
